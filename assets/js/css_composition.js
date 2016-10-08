@@ -1,7 +1,4 @@
-$(document).ready(function(){
-
-
-  composition = function( composition_name ) {
+composition = function( composition_name ) {
  
   self = this;   
  
@@ -102,9 +99,7 @@ $(document).ready(function(){
  
 } /* End class */
 
-intro = new composition( 'block_move' );
 
-});
 
 
 
