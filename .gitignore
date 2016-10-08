@@ -13,3 +13,8 @@ Thumbs.db
 .sass-cache
 .htaccess
 wp-config.php
+
+.AppleDouble
+
+wp-content/themes/digitalbart-theme/node_modules
+/wp-content/themes/digitalbart-theme/node_modules
